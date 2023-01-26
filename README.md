@@ -19,6 +19,10 @@ Otherwise you can directly clone this repo:
 git clone https://github.com/reactbricks/nextjs-starter-reactbricks-tailwind your-project
 ```
 
+## Create new bricks
+
+If you want new custom bricks to use in your `http://localhost:3000/admin/editor` you need to add it into
+react-bricks > bricks folder, import into `index.ts` and you will see the new component in the playground
 ## 📖 Documentation
 
 Please, read our documentation at [Reactbricks.com](https://reactbricks.com).
