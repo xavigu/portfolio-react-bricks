@@ -25,5 +25,5 @@ If you want new custom bricks to use in your `http://localhost:3000/admin/editor
 react-bricks > bricks folder, import into `index.ts` and you will see the new component in the playground
 ## 📖 Documentation
 
-Deploy with Netlify: https://reactbricks.com/learn/deploy/netlify
+Deploy on Vercel: https://reactbricks.com/learn/deploy/vercel (using a vercel hook in the project you can deploy any change in the admin editor going to settings and pressing `Deploy to Production` button)
 Please, read our documentation at [Reactbricks.com](https://reactbricks.com).
